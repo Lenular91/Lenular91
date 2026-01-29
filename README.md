@@ -34,10 +34,12 @@
 
 <br/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lenular91&show_icons=true&locale=fr&bg_color=000000&title_color=00f2ff&text_color=ff00ff&icon_color=00f2ff&border_color=00f2ff&hide_border=true" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenular91&layout=compact&locale=fr&bg_color=000000&title_color=00f2ff&text_color=ff00ff&hide_border=true" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenular91&show_icons=true&locale=fr&bg_color=000000&title_color=00f2ff&text_color=ff00ff&icon_color=00f2ff&border_color=00f2ff&hide_border=true" alt="Lenular91 Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenular91&layout=compact&locale=fr&bg_color=000000&title_color=00f2ff&text_color=ff00ff&hide_border=true" alt="Lenular91 Languages" />
 </p>
 
 </div>
