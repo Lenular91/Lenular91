@@ -1,32 +1,44 @@
-# Lenular91 – Développeur Web
-
 <div align="center">
 
-<h1 style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #f0f, 0 0 30px #f0f;">Salut, c'est Lenular91 ! 👾</h1>
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" />
 
-<p style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffff;">Développeur passionné par le web moderne.</p>
+<br/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Salut%2C+c'est+Lenular91+!+%F0%9F%91%BE;Dev+Web+Moderne;Cyberpunk+Enthusiast" alt="Typing SVG" />
+</a>
 
-### 🛠️ Mes technos
+<br/>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&colorA=%23000&colorB=%2300ffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&colorA=%23000&colorB=%23ff0)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&colorA=%23000&colorB=%23ff0080)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&colorA=%23000&colorB=%2300ffcc)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&colorA=%23000&colorB=%23ff00ff)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br/>
 
-### 📊 Mes statistiques GitHub
+### 🛠️ <span style="color: #ff00ff">MA TECH STACK</span>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lenular91&theme=dracula)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lenular91&theme=dracula)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lenular91&theme=dracula)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lenular91&theme=dracula)
+<p>
+  <img src="https://img.shields.io/badge/REACT-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📊 <span style="color: #00ffff">STATISTIQUES</span>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lenular91&theme=synthwave" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lenular91&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lenular91&theme=synthwave" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lenular91&theme=synthwave" />
+</p>
 
 </div>
-
----
-
-<p align="center" style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #f0f;"></p>
