@@ -4,7 +4,7 @@
 
 <h1 style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #f0f, 0 0 30px #f0f;">Salut, c'est Lenular91 ! 👾</h1>
 
-<p style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffff;">Développeur passionné par le web moderne, j'adore le design rétro futuriste et les interfaces flashy.</p>
+<p style="color:#ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffff;">Développeur passionné par le web moderne.</p>
 
 ---
 
