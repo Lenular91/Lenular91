@@ -1,6 +1,6 @@
 ### Salut, c'est Lenular91 ! 👋
 
-Développeur passionné par React et le web moderne.
+Développeur passionné par le web moderne.
 
 ---
 
